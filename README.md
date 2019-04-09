@@ -1,3 +1,3 @@
 # Elementary-Schools-Of-California
 
-## Objective
+A Data science project with the main aim of doing some Descriptive and Exploratory Data Analysis and then applying predictive modelling for predicting the academic performance of an elementary schools of California.
